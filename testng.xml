@@ -2,5 +2,8 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Suite">
   <test name="TestClasses">
+  <classes>
+  	<class name="com.app.bot.senbot.AppTest"></class>
+  </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
